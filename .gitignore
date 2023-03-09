@@ -1,0 +1,7 @@
+#folder
+bin/
+# file idea
+.idea
+# nhieu file .bin
+*.bin
+# hahahah
